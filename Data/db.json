@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "type": "card",
+      "style": {
+        "class": "bg-primary",
+        "custom": "random css"
+      },
+      "content": {
+        "title": "this is card one",
+        "value": 241241
+      },
+      "logic": []
+    },
+    {
+      "type": "card",
+      "style": {
+        "class": "bg-light",
+        "custom": "random css"
+      },
+      "content": {
+        "title": "this is card two",
+        "value": 241241456
+      },
+      "logic": []
+    }
+  ]
+}
